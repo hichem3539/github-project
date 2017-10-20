@@ -128,7 +128,7 @@ public static void main ( String args[] )
         vector.afficher(tab);
 
         vector.trier(tab);
-        vector.afficher(tab);
+       
 
 
     }
